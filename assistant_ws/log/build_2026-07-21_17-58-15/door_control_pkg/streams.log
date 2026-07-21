@@ -1,0 +1,36 @@
+[1.555s] Invoking command in '/home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/src/door_control_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/door_control_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/door_control_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/door_control_pkg build --build-base /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/door_control_pkg/build install --record /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/door_control_pkg/install.log --single-version-externally-managed
+[1.789s] running egg_info
+[1.790s] creating ../../build/door_control_pkg/door_control_pkg.egg-info
+[1.801s] writing ../../build/door_control_pkg/door_control_pkg.egg-info/PKG-INFO
+[1.801s] writing dependency_links to ../../build/door_control_pkg/door_control_pkg.egg-info/dependency_links.txt
+[1.801s] writing entry points to ../../build/door_control_pkg/door_control_pkg.egg-info/entry_points.txt
+[1.801s] writing requirements to ../../build/door_control_pkg/door_control_pkg.egg-info/requires.txt
+[1.801s] writing top-level names to ../../build/door_control_pkg/door_control_pkg.egg-info/top_level.txt
+[1.801s] writing manifest file '../../build/door_control_pkg/door_control_pkg.egg-info/SOURCES.txt'
+[1.825s] reading manifest file '../../build/door_control_pkg/door_control_pkg.egg-info/SOURCES.txt'
+[1.826s] writing manifest file '../../build/door_control_pkg/door_control_pkg.egg-info/SOURCES.txt'
+[1.826s] running build
+[1.826s] running build_py
+[1.826s] creating /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/door_control_pkg/build
+[1.826s] creating /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/door_control_pkg/build/lib
+[1.827s] creating /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/door_control_pkg/build/lib/door_control_pkg
+[1.828s] copying door_control_pkg/door_lidar_node.py -> /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/door_control_pkg/build/lib/door_control_pkg
+[1.829s] copying door_control_pkg/__init__.py -> /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/door_control_pkg/build/lib/door_control_pkg
+[1.829s] copying door_control_pkg/door_logic_node.py -> /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/door_control_pkg/build/lib/door_control_pkg
+[1.830s] running install
+[1.838s] running install_lib
+[1.849s] creating /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/door_control_pkg/lib/python3.12/site-packages/door_control_pkg
+[1.850s] copying /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/door_control_pkg/build/lib/door_control_pkg/door_lidar_node.py -> /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/door_control_pkg/lib/python3.12/site-packages/door_control_pkg
+[1.850s] copying /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/door_control_pkg/build/lib/door_control_pkg/__init__.py -> /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/door_control_pkg/lib/python3.12/site-packages/door_control_pkg
+[1.852s] copying /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/door_control_pkg/build/lib/door_control_pkg/door_logic_node.py -> /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/door_control_pkg/lib/python3.12/site-packages/door_control_pkg
+[1.852s] byte-compiling /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/door_control_pkg/lib/python3.12/site-packages/door_control_pkg/door_lidar_node.py to door_lidar_node.cpython-312.pyc
+[1.855s] byte-compiling /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/door_control_pkg/lib/python3.12/site-packages/door_control_pkg/__init__.py to __init__.cpython-312.pyc
+[1.856s] byte-compiling /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/door_control_pkg/lib/python3.12/site-packages/door_control_pkg/door_logic_node.py to door_logic_node.cpython-312.pyc
+[1.858s] running install_egg_info
+[1.873s] Copying ../../build/door_control_pkg/door_control_pkg.egg-info to /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/door_control_pkg/lib/python3.12/site-packages/door_control_pkg-0.0.0-py3.12.egg-info
+[1.874s] running install_scripts
+[1.989s] Installing door_lidar_node script to /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/door_control_pkg/lib/door_control_pkg
+[1.989s] Installing door_logic_node script to /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/door_control_pkg/lib/door_control_pkg
+[1.989s] Installing doormonitornode script to /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/door_control_pkg/lib/door_control_pkg
+[1.989s] writing list of installed files to '/home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/door_control_pkg/install.log'
+[2.043s] Invoked command in '/home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/src/door_control_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/door_control_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/door_control_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/door_control_pkg build --build-base /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/door_control_pkg/build install --record /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/door_control_pkg/install.log --single-version-externally-managed

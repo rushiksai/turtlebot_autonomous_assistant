@@ -1,0 +1,33 @@
+[1.580s] Invoking command in '/home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/src/assistant_navigation': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/assistant_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/assistant_navigation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/assistant_navigation build --build-base /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/assistant_navigation/build install --record /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/assistant_navigation/install.log --single-version-externally-managed install_data
+[1.795s] running egg_info
+[1.796s] creating ../../build/assistant_navigation/assistant_navigation.egg-info
+[1.806s] writing ../../build/assistant_navigation/assistant_navigation.egg-info/PKG-INFO
+[1.806s] writing dependency_links to ../../build/assistant_navigation/assistant_navigation.egg-info/dependency_links.txt
+[1.806s] writing requirements to ../../build/assistant_navigation/assistant_navigation.egg-info/requires.txt
+[1.806s] writing top-level names to ../../build/assistant_navigation/assistant_navigation.egg-info/top_level.txt
+[1.807s] writing manifest file '../../build/assistant_navigation/assistant_navigation.egg-info/SOURCES.txt'
+[1.829s] reading manifest file '../../build/assistant_navigation/assistant_navigation.egg-info/SOURCES.txt'
+[1.829s] adding license file 'LICENSE'
+[1.830s] writing manifest file '../../build/assistant_navigation/assistant_navigation.egg-info/SOURCES.txt'
+[1.830s] running build
+[1.831s] running build_py
+[1.831s] creating /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/assistant_navigation/build
+[1.831s] creating /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/assistant_navigation/build/lib
+[1.831s] creating /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/assistant_navigation/build/lib/assistant_navigation
+[1.831s] copying assistant_navigation/__init__.py -> /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/assistant_navigation/build/lib/assistant_navigation
+[1.831s] running install
+[1.834s] running install_lib
+[1.849s] creating /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/assistant_navigation/lib/python3.12/site-packages/assistant_navigation
+[1.849s] copying /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/assistant_navigation/build/lib/assistant_navigation/__init__.py -> /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/assistant_navigation/lib/python3.12/site-packages/assistant_navigation
+[1.849s] byte-compiling /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/assistant_navigation/lib/python3.12/site-packages/assistant_navigation/__init__.py to __init__.cpython-312.pyc
+[1.849s] running install_data
+[1.850s] creating /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/assistant_navigation/share/ament_index
+[1.850s] creating /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/assistant_navigation/share/ament_index/resource_index
+[1.850s] creating /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/assistant_navigation/share/ament_index/resource_index/packages
+[1.850s] copying resource/assistant_navigation -> /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/assistant_navigation/share/ament_index/resource_index/packages
+[1.850s] copying package.xml -> /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/assistant_navigation/share/assistant_navigation
+[1.850s] running install_egg_info
+[1.862s] Copying ../../build/assistant_navigation/assistant_navigation.egg-info to /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/assistant_navigation/lib/python3.12/site-packages/assistant_navigation-0.0.0-py3.12.egg-info
+[1.862s] running install_scripts
+[1.968s] writing list of installed files to '/home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/assistant_navigation/install.log'
+[2.028s] Invoked command in '/home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/src/assistant_navigation' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/assistant_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/install/assistant_navigation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/assistant_navigation build --build-base /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/assistant_navigation/build install --record /home/rushiksaiii/turtlebot_autonomous_assistant/assistant_ws/build/assistant_navigation/install.log --single-version-externally-managed install_data

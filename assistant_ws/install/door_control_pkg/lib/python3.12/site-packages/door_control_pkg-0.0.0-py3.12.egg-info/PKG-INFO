@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: door-control-pkg
+Version: 0.0.0
+Summary: Door control package for knock-knock logic
+Maintainer: rushiksaiii
+Maintainer-email: rushik@example.com
+License: Apache License 2.0

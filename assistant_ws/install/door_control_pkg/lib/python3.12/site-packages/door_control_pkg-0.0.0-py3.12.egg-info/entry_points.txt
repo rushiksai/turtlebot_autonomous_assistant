@@ -1,0 +1,4 @@
+[console_scripts]
+door_lidar_node = door_control_pkg.door_lidar_node:main
+door_logic_node = door_control_pkg.door_logic_node:main
+doormonitornode = door_control_pkg.doormonitornode:main
